@@ -1,7 +1,7 @@
 {
   "versionCode":4,
   "versionName":"4.0.0",
-  "content":"1.新增抢单功能#2.性能优化",//使用 # 来进行换行
-  "minSupport":1,	//最低支持版本，小于此版本必须强制更新
+  "content":"1.新增抢单功能#2.性能优化",
+  "minSupport":1,	
   "url":"https://github.com/z0958593678/Mycode/blob/master/%E6%BF%80%E6%83%85%E7%8E%9B%E5%8F%AF%E5%BD%B1%E8%A7%86_v1.6.3.apk?raw=true"
 }
